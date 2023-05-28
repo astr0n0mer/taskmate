@@ -1,9 +1,3 @@
 export default function Error() {
-  return (
-    <p>
-      Error :-/
-      <br />
-      Please refresh.
-    </p>
-  );
+  return <p>An error occured. Please refresh this page.</p>;
 }
